@@ -9,6 +9,8 @@
 
 PPT:[Infinitely Better UIs with Finite Automata](http://slides.com/davidkhourshid/finite-state-machines#/)
 
+![](https://github.com/itemsets/vuex2-xstate/raw/master/images/1.png) 
+
 而后，我觉得这种模式非常适合Vue.js，特别是Vuex；我在`codepen`上快速地完成了几个示例；运行并检查了之后，我将这些示例发送给了David Khourshid。
 
 让我们看看`xstate`在Vue是怎么集成的：
@@ -140,7 +142,7 @@ https://codepen.io/BrockReece/pen/EvdwpJ
 
 我想David Khourshid已经把我提供的示例放到`xstate`项目的案例里面了。
 
-![]()
+![](https://github.com/itemsets/vuex2-xstate/raw/master/images/2.png) 
 
 好了，接下来我要认真考虑在下一个项目中狠狠地使用上这个东西。
 
